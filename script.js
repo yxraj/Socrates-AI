@@ -1,4 +1,4 @@
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 const MODEL = "llama-3.3-70b-versatile";
 
 const DAILY_QUOTES = [
